@@ -24,15 +24,15 @@
           <v-icon left dark>mdi-timer-play-outline</v-icon>
           登高望远
         </v-btn>
-        <v-btn depressed large outlined class="mr-4 text-h6" color="pink accent-1" dark>
+        <v-btn depressed large outlined class="mr-4 text-h6" color="pink accent-1" dark to="/refeature">
           <v-icon left dark>mdi-sign-direction-plus</v-icon>
           重新启程
         </v-btn>
-        <v-btn depressed large class="mr-4 text-h6" color="success" dark>
+        <v-btn depressed large class="mr-4 text-h6" color="success" dark to="/reentrance">
           <v-icon left dark>mdi-book-search-outline</v-icon>
           初入江湖
         </v-btn>
-        <v-btn depressed large outlined class="mr-4 text-h6" color="deep-purple darken-3" dark>
+        <v-btn depressed large outlined class="mr-4 text-h6" color="deep-purple darken-3" dark to="/pwapi">
           <v-icon left dark>mdi-book-open-page-variant</v-icon>
           心法秘籍
         </v-btn>
