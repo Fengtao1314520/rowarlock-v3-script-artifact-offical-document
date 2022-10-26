@@ -24,11 +24,11 @@
           <v-icon left dark>mdi-timer-play-outline</v-icon>
           登高望远
         </v-btn>
-        <v-btn depressed large outlined class="mr-4 text-h6" color="pink accent-1" dark to="/refeature">
+        <v-btn depressed large outlined class="mr-4 text-h6" color="pink accent-1" dark to="/feature">
           <v-icon left dark>mdi-sign-direction-plus</v-icon>
           重新启程
         </v-btn>
-        <v-btn depressed large class="mr-4 text-h6" color="success" dark to="/reentrance">
+        <v-btn depressed large class="mr-4 text-h6" color="success" dark to="/entrance">
           <v-icon left dark>mdi-book-search-outline</v-icon>
           初入江湖
         </v-btn>
