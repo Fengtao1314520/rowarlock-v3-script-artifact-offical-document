@@ -18,7 +18,7 @@ import DemoShow from '../components/DemoShow.vue'
 
 // 第二步创建router实例对象并暴露
 export default new VueRouter({
-  mode: 'hash',
+  //mode: 'hash',
   // mode: "history",
   routes: [
     {
